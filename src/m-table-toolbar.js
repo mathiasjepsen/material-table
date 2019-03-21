@@ -217,7 +217,6 @@ MTableToolbar.propTypes = {
   searchFieldStyle: PropTypes.object,
   searchText: PropTypes.string.isRequired,
   selectedRows: PropTypes.array,
-  title: PropTypes.string.isRequired,
   showTitle: PropTypes.bool.isRequired,
   toolbarButtonAlignment: PropTypes.string.isRequired,
   renderData: PropTypes.array,
